@@ -1,3 +1,5 @@
+#code to retrive youtube comments of a video from the Google provided youtube API
+#requires google cloud developers account and a API with enabled youtube data API
 #pip install --upgrade google-api-python-client
 
 import os
