@@ -1,0 +1,2 @@
+# youtube_comments_sentimental_analysis
+Sentimental analysis of youtube videos
